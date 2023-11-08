@@ -1,0 +1,26 @@
+{
+  "name": "Chris Moran",
+  "age": 32,
+  "address": {
+    "street": "Joknud Highway",
+    "city": "Izkopu",
+    "state": "MD",
+    "zip": "29236"
+  },
+  "contact": {
+    "phone": "(506) 634-5199",
+    "servicePhone": "800515419"
+  },
+  "birthday": "1995-11-23T13:13:23.170Z",
+  "ip": "182.129.104.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Aruudo itono zap ukezejru huter go opuabne jud zetrok ihsesiw kow hitungeb ki wernetehu hal kaskonu. Uwo nuwlera kemefuva fo kobebor ormigci oje oma je goruw mavaka jisoju la bomkoku zijcibun ral ofazumoh bun. Jogo feupazo cep erevap gup lulbusjib dispomoh bew bikpe ob kajrer kel cemwufuc hojul wiladmof pud ruhi ituvar.",
+    "bio": "Pu atorfa fi vacsah fieg oha gibotsum bar duc tijep ol renbak le viraj suwjela witac. Aco zim su rumupap bagba itofozto vit wapros ekejevpu ipe zovnibur urnupocu awavu gi gos jidan mif. Zid bede lukwubez hewdi tasekrac vawzutcum ewu segevevik si ze taij zakuh bepidu nanalsed fo pawfa oc azif."
+  },
+  "apiKey": "fc52cc97beb2fc6e2f084eab44f59f5b48d68144ca55c58377c90ca4db45fc02",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
