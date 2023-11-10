@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Lawrence",
+  "age": 31,
+  "address": {
+    "street": "Tulzaw Highway",
+    "city": "Umutudu",
+    "state": "TX",
+    "zip": "42595"
+  },
+  "contact": {
+    "phone": "(846) 783-5945",
+    "servicePhone": "800938958"
+  },
+  "birthday": "1988-01-02T12:33:46.079Z",
+  "ip": "211.180.16.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Nefo daamu jomu bimit zap sitonovu we hejduhiw capmafwe cosgeguj te tapug. Becbisne jalbasiz pih cizuija vuku lage we sivca tihbownoj jurhafab pewjepzu ulilurbeh jiduk po. Cihdo da zuh vosa ohaicvu zoga nucowsup amo lel gicozib usoh jec nawo cuscawi du lo luko.",
+    "bio": "Fitika go ji vajab nevsada dadiver bup zus imuas ircukoni samektel epi kolica umiwuvhel. Resma zuwgale jucuj cokonzov jud vap kop pafok al peldafomo mip ec cerulevi ivejuc. Go kidecpa bu usru tuncolfu mi neasgo itaso ahuro ura va watnulcor fe igeciji ranul ga."
+  },
+  "apiKey": "a4f38b75546337b44d43f0551e5bc387a22fcf0bb302d8c6756490f46b7d2028",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
