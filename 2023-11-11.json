@@ -1,0 +1,26 @@
+{
+  "name": "Brian Becker",
+  "age": 51,
+  "address": {
+    "street": "Ceruw Square",
+    "city": "Cewirocu",
+    "state": "HI",
+    "zip": "45154"
+  },
+  "contact": {
+    "phone": "(975) 408-8641",
+    "servicePhone": "800665864"
+  },
+  "birthday": "1974-07-10T07:01:27.051Z",
+  "ip": "93.14.153.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Gadi tijed ri oglu efa gaharuga ocoapeob ojujijar silurawe suuge pabi ohciuki dazzak zutibugas kilogzi. Apwobu obpikob wufooz he ju am umiriha tefaguv tu tu ve fupgawo cilauf emo eheule iro na reigma. Dowos idita sofkilil ufunuhake hegjanci ru no zog puvohgu memug duflu zazuwpik ar.",
+    "bio": "Sa vow soclu herbit opwane baj vacmorute finehos russuga joti kusewba zetgigika lehowuce ot. Urkap up umoanu ehi duum nanne no ru opo cijegbuk menesro govmab ke muphog ijmim tiir ibpaomo bami. Ru as pi vanzutmu ka rivuwsi tadni diol mijru ga unlov ne erzuzi ac ciaf. Kessap si giis riniw agagi bobdo juh seh ceccu gaow gimet use poccegvo me rauzamet fa fosadso pa. Cahofak modege juven nesbus ede ovgoc sakifu sudec buc pu sogupapu dektev gogazud. Wiskezsa obat seubuji wil zibamlok suvu hoj namimire isuupeh nenbeh rafoz eraaka if vo waimu."
+  },
+  "apiKey": "cbe7756b609be5d43f6784dbc18d5a5c3aa001ed5bc9a66639b4deb1dc4276d7",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
