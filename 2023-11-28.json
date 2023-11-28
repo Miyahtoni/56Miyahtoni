@@ -1,0 +1,26 @@
+{
+  "name": "Elnora Maldonado",
+  "age": 43,
+  "address": {
+    "street": "Bopo Way",
+    "city": "Mafafe",
+    "state": "DE",
+    "zip": "13147"
+  },
+  "contact": {
+    "phone": "(386) 549-4845",
+    "servicePhone": "800168849"
+  },
+  "birthday": "1987-09-28T11:33:18.286Z",
+  "ip": "229.84.234.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Sirhoza biij zo ze gaz jifnek unizuk dislu tagvomi gihse leke puf mi. Inabik zawicij rerihoke cilo guhmowe gujsivuz amni dabozaoni ke wonbuci ze copegek co weuf rapu. Basacfo wupiljoh acnad vaakpa zas uzlez lokhorwu kohsiz woudci cuzared ebatoadu gamzuv gasumra.",
+    "bio": "Penjid kezohmov iw zigofitaz tikdiagu teez wa wa wi ful imilew kurus ekaebje. Ugojuja ote bifdupfa ekobo demtola gij nittoz api odocewib vobo big taba. Emimu tigot li vebha zufze miike sawgu ka weduko dun ladim ej jiphik kusaz bewvudpuv pili. Ogipig ramma kouko tag ekozimoh fiuse du noker te ebgufo hag idu."
+  },
+  "apiKey": "d93cc32428b35ad4fcbff54304e4b8d467335001b3e630af922cc8b37e94eca8",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
