@@ -1,0 +1,26 @@
+{
+  "name": "Sam Lopez",
+  "age": 56,
+  "address": {
+    "street": "Vopa Trail",
+    "city": "Urobatug",
+    "state": "ME",
+    "zip": "43096"
+  },
+  "contact": {
+    "phone": "(520) 734-6098",
+    "servicePhone": "800779958"
+  },
+  "birthday": "1998-01-11T08:15:48.656Z",
+  "ip": "28.156.191.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Cah nub eraonpe guvhaj upgaew lez mu reledlob nimac ce jifzid recfet couszid. Umjeh ufuren ruf beswuw diponom safno fuvugil nejgo unam bulenagiz sac isconmas izvoj vo worjuz kega ohilaf kirul. Ca wiheuja minarzik zopasci suc huihufi dupojfum ikobat iw lew fuk ebruma zor fufzic nuc ureud.",
+    "bio": "Rulnuzab riwudgop izno bir icire cozveedu bubin cehurah nuda wu if dilo mim peg porrelaf luk nevom kaco. Aj vok cotpu obhapos cauge lat sowmona hid cuagawew napebeza ijijgu pocbaic onni kaza. Za agawiwva uruwate guza dupe mapecpip homtagron tuw wirjavus odatel lunagsa zuvov ud jodotu kem."
+  },
+  "apiKey": "761488d912d032d0a6c8fa166f66644926775283d4ac0b1e26c93b139b15b275",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
