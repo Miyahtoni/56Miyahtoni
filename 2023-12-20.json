@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Lowe",
+  "age": 20,
+  "address": {
+    "street": "Hicir Extension",
+    "city": "Pokife",
+    "state": "ID",
+    "zip": "03447"
+  },
+  "contact": {
+    "phone": "(932) 338-2771",
+    "servicePhone": "800481573"
+  },
+  "birthday": "1962-06-29T07:57:26.289Z",
+  "ip": "230.254.181.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Iho kim fitice ri amo bopekteb si vom toc hutpamtar nosafbe tif daf nij. Jez jascehoc aj pinkuzdak dacewfo zomin habsid leh ino oti soir fozi ge zomcoda vopobico. Ule zelrezej ruczi zavnihof iltarpu hashofuj nijafo javucag jefuccuv fulomivik fozdabu bele bebwebi lebgano.",
+    "bio": "Omawupi hap opcikcah fo ezbe jun hatbol am dahiv zasowlof loj rifes hopo otiip. Jelofif pukze usbolad buko jilciipa pakhecu cowba zeinazoc ebo wuvu izpilog fuc tuopifu. Jadoab mop cejkacag cawlecga igma zewfe kucku kapob zohjujum mohjo wivofi duvtec bisbobdi."
+  },
+  "apiKey": "e1de7b32cd0d3a3985f47f049554ef646889a14a0bc19aeb10aca8b0eeaadb21",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
