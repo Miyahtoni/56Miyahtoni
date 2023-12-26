@@ -1,0 +1,26 @@
+{
+  "name": "Mary Smith",
+  "age": 25,
+  "address": {
+    "street": "Puwa Trail",
+    "city": "Cunzeob",
+    "state": "GA",
+    "zip": "22060"
+  },
+  "contact": {
+    "phone": "(871) 417-5509",
+    "servicePhone": "800789792"
+  },
+  "birthday": "1974-01-03T19:20:57.172Z",
+  "ip": "90.36.229.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Wo ovimaspo bukdutzuh zukradumi hutoh atu awaem tutfew patgutrib sabi za gimuggaj saetaw vec sifmo tu foliv. Luwkudka owri tegbajo molteh esikikewe usmik soljita johpejpec nohzed va di giwoc cuh uz. Ferubba uva pimdodo ifvar tiap simokav vusocus otul pasij nuece hirer civow.",
+    "bio": "Mesebri awafonhuf kocufejo bubaci ocurimi hoimjuj jihetil vipcutip we na no pazsout lare logu inetade gajbogu. Vubar ufroag fafju lez tadmicne hehwu ba atuji opzi gon reureji kudkure juupo vel ko. Tijoge fetva dac imehada metfosfab vefefijoz we zob ju mupsuk coahsa siwuh piku mujfillac pez wibofid hu. Wonofpan cikohoodu bulahi mah dif ce zogib vavej inavu haoh faajidu gowwave jibwa umeinole houl di ro."
+  },
+  "apiKey": "e9ff3dfb2ebd68987ad4bc54488791522587728d283ff59b0cc96043566af456",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
