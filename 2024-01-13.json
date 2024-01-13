@@ -1,0 +1,26 @@
+{
+  "name": "Lola Lambert",
+  "age": 27,
+  "address": {
+    "street": "Hiehi Park",
+    "city": "Rasisovil",
+    "state": "AZ",
+    "zip": "38644"
+  },
+  "contact": {
+    "phone": "(787) 849-6899",
+    "servicePhone": "800291969"
+  },
+  "birthday": "1962-08-03T11:18:17.640Z",
+  "ip": "84.215.141.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu kiw rad koeveliv geh joh dif wadzagra vidpoj vodwa te kabir bag seodukud or defvogfav owihub. Cugbo de umlupcuf gokub po nec uborulu toflib aseju asepon uzuvi sujigiw wumovtek gupon oclul. In me nuip otaro liholeh ze rajazipo rogzup gam buve tarcihes ida hagnubip edi im ginugif epe teude. Piapemo mudiita iziorozub dab teh memzu pecabzat ni por nokastih ahmavhum cu mo gapcifni himmaj joere bawladuw. Ugpo zil dujel ebesij ofidave por mi laj til ehevakam ce rizuwfiw rem vegi ponol.",
+    "bio": "No ikvot arucbiv faowwa roav hapgofve ko wusasil uwojej no ji puk. Acije doze lewpake ejtaoh abuhifi pujwociw ha gi laah horuj lubrami bocgosalo it. Ifatu lolfe jok zadba nuna goploknu fuongud okisa joldu vihvo ilakomod nov naviho ivi woroj. Ogilima bozin izefogaf tas wuciv umevi ni jecinvid go ovupozir widatsi feba cajig batgilijo vaktufzih secihbe vememuew."
+  },
+  "apiKey": "9f6594f8ba1561bb0992729263a8ea8176ad0c769fff197879f24ab996c56952",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
