@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Haynes",
+  "age": 19,
+  "address": {
+    "street": "Culik Plaza",
+    "city": "Elocueto",
+    "state": "ME",
+    "zip": "86811"
+  },
+  "contact": {
+    "phone": "(709) 327-7886",
+    "servicePhone": "800492926"
+  },
+  "birthday": "1982-08-28T12:50:26.370Z",
+  "ip": "119.161.87.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Magartep gokoca ir vug keratuk tusrewi fa budve lihis rol tewkic muc kictileho ticlug popda dewav por wibel. Figaplig tuchoda feibjo ku om selludtic kel ba loh sufi ovmon do. Zafej vomik winid dawosij ihbeh ne emaluk gile jaldozto zi kidsirer viise ad gofel geezivuw ownuvcib ahpo kevegwa. Ki sep fifehzic ubusopibi doem mengap haaroruc niinoav tof nufufuv jigega tidajwur dajjuh.",
+    "bio": "Wo tilu ira ciwaf nocpu fuvurlu hefaabi gucoz icuosute emoup se imgon ko mes miboce. Hula ewa piigucip hu ki hektub jecajup ze lulfoteg ka wepe fakep kahel. Jorawuf jatu acoan lik nad di gilto inada jopecvof vupepacu mom pal nu rafelzip. Gehhiz ses uhenewuk natec tevji molrukif vejwuifi usimec kuhvuvced maova enbuadi lozubi bog agulo wud tov deligmo upsowti. Adaja gug obihu vocvula sekbut ku tukvip on zatu ovledrof tutmi calokji no. Cu esbi gi vi mi ser osojic juegoriz zohinuj buhnezton foifoza dik."
+  },
+  "apiKey": "c81e3bde98e3ef1412a576da4da6cbe730a6818be2f45a7f2b5cfc5ebcab772b",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
