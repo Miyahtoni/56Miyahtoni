@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Sharp",
+  "age": 28,
+  "address": {
+    "street": "Kuzog Point",
+    "city": "Bopimof",
+    "state": "WA",
+    "zip": "82974"
+  },
+  "contact": {
+    "phone": "(630) 896-8342",
+    "servicePhone": "800299532"
+  },
+  "birthday": "1986-10-29T04:38:57.275Z",
+  "ip": "115.123.186.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Katicedi vafpobat upo kicebu te koefegar wegpo vacarivo gaw fo rezbempar but ho ki. Oziocakuv vojwuthe bej pulnaj juscefab sa zol kavnire ula va so kolgibte leataguv hu ke fulab deoco. Beazupam fuat rerzu cubojke pubup vetvazoc rem vip fusorta vas fifiamu bibnon uwada zi.",
+    "bio": "Lobop buda ciwu takrirgo li bo wukla ale cidduwpuw agoetpus be ci riejace lih wowduab hoesalo. Laddu ave omasa wazuvjam nupis zevmob ejowa ri dicka ozunap kal otiumuju apazujreb tefobko. Ejpac adihoobi viejbus nave temledam numni uh raru idsuf apinuniw udezuwdid uhidez acfogmid jezcu."
+  },
+  "apiKey": "c46ac40ef057468b7724d359e1bd16df479d9e9b53f051115daf828f04617d00",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
