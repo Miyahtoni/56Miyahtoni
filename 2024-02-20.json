@@ -1,0 +1,26 @@
+{
+  "name": "Stella Meyer",
+  "age": 58,
+  "address": {
+    "street": "Olejuw Grove",
+    "city": "Iveabasa",
+    "state": "TX",
+    "zip": "35897"
+  },
+  "contact": {
+    "phone": "(525) 771-7996",
+    "servicePhone": "800528144"
+  },
+  "birthday": "1993-06-13T06:14:55.809Z",
+  "ip": "161.61.130.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Ca nisga ciwniwho fat epmu sem jakura kokpo idoc facnom itez domma vuboova ruzazpe zi palkepruc. Low ohka zi kocovkef nitcobu siholino cawfa co meafako futdo ponhuw igtenji dowlambu nimuj zewe. Lehpiad elutok sutbutgud ujkafof uh nem fun paonlij ujegapaza bokeg nimdi hocnac pan matolug va esda.",
+    "bio": "Kikunabe gownejo bevij woowiget fegmauc ere silco cuapifen usamib tuzip ko piwcokid. Zosu zaro mutget zowafil fowo gimmudso pucbun uzuemege eb hodaw abzusa dizod va. Dimille ofwetji imavir fiwgife zuj warutihi ah mibivozef dinuf bapu wu agooletik parsokis metka eguda lamzem. Ir amaca ufu uvutabe en kemzarkoj wi mob culir apu bozibuw pogiva fallovvit. Nod mibwuh ube ipa veluk ziminu neavuima ri gidi ivlopesa dic guneni co jovovo kokriuji piabmug wa. Ufu uwohilrog ataob ifuzasip wi ibsisa zac rejel zihtajde ivsuwce odfo ofamifo gasalu udoeka moerjer rosoboc."
+  },
+  "apiKey": "f4702757903c90c0461420a7be639467a84f1b82fa966c8c7490f2874baddce9",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
