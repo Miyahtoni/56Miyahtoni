@@ -1,0 +1,26 @@
+{
+  "name": "Ella Carroll",
+  "age": 45,
+  "address": {
+    "street": "Diina Lane",
+    "city": "Fasekati",
+    "state": "ND",
+    "zip": "22516"
+  },
+  "contact": {
+    "phone": "(972) 710-4029",
+    "servicePhone": "800735679"
+  },
+  "birthday": "1962-02-06T01:23:11.801Z",
+  "ip": "126.11.152.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Waddu buclo wun vevob wemrizom faluhu fi dam fin we mangoper mulmi tic zeton rimpi zepgakpo gal. Luf uve pirzatdah aruir fe muhu eloregiz zontal sapoh duceguwe tesjah de egnemwo fus ih biufobot gumiko. Aveovfi pum raur voslik nenun pek ab meet nucutimuc depo ogo docdewpa uzzir wakwa horkaoc duer lumiwbu ukuzija. Jegcohdiw posi do nofunaca leawesow rotidemo zeb awdes vil lieziol cuhezac ig.",
+    "bio": "Eti kocimiho vakubate bepi ifukovur nodmuz conatgok uswur povcijce fe lodsagdi no vozremoz ni nehumu nic cesmev zo. Iri kavhoas sep arloacu tetop ihuj urecekraf hifogap budjo ubhavuko vokboge invigos ubcofsu ipeizeci we. Vempaj agmeag hoafafo omevceb vana hevovesog teboc zijrel vaz we uwisolu urwaada. Dichov masuc fa tefgi ran kuh begig nos gehubjot kudve ga rucale dumege oc ro jugej zukca. Ashawgim al be uszager heg pel ihmu zuclon notsiku tas akwu soblursom."
+  },
+  "apiKey": "5278ee54edd6660df093d17cca82b8bc4834cc8f0b16f2024c49b9e617c741e9",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
