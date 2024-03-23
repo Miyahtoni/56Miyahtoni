@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Perkins",
+  "age": 59,
+  "address": {
+    "street": "Kukva Turnpike",
+    "city": "Enmihed",
+    "state": "NJ",
+    "zip": "72095"
+  },
+  "contact": {
+    "phone": "(305) 654-1416",
+    "servicePhone": "800292272"
+  },
+  "birthday": "1973-05-08T21:38:15.831Z",
+  "ip": "37.145.223.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Ketja rudozgo pil evmav nafge olvib joljufada fuhhab buuj utu sazpen rubsofved pibjum onbi evpas resoku. Tolar gecolude fahjapod rol tijip vej utereow pusuhba falup ahcig mawwifud ohe ego osnu. Hidhid niru ofipaven la hulpo sah jefgabpiw orrub lomo lofkawwu kegumer doranme if rigo vac pidwoki ve.",
+    "bio": "Odanukaz rafnifil wuz ej jaf kiddu jima ocagavo pek he rivfogav kurwetni ro zashu nubtobili siwuznow. Tif du boebi takewu run voknu mo tadzibe onpiten aptin gisceh givuc no etvezah. Ihpegi korobzi kunpu wo jo ni utgu venvugre va ewunoh ic jel wo oto labawasen agaro tasneg joato."
+  },
+  "apiKey": "5e5b00389663855db59c11e7b3388c80321d170836fc081a7db9dd731df18a08",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
