@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Matthews",
+  "age": 48,
+  "address": {
+    "street": "Savo Road",
+    "city": "Tisjefig",
+    "state": "AZ",
+    "zip": "97247"
+  },
+  "contact": {
+    "phone": "(626) 322-6363",
+    "servicePhone": "800135657"
+  },
+  "birthday": "1983-03-30T07:46:40.417Z",
+  "ip": "75.152.69.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu awibis gi ecijupe miiru ha go lu zo waaka wal caedgo duwwev ure riagaaco. Tib nasos appod keha ajpuit gis ohperro ni zujin nuwne fuz okohaw fa oki. Cew ge belnepeb higbacul jo buweha ojizu fibhes cuwpok puw mi ke fijdup luc duhnawma.",
+    "bio": "Renhun sodvof fu upooskil onlunus zibotnup ela tuhgicka jev goka gufatpuj zulwasta zevpi. Abri gu upetim ties liraf wo vufal uva jav am guwag doze ebe eweraodo vikkaz diami saatil sakkit. Witzof jokew awe reawgip utice et bouk rad lo vout nanud hahagic lorughok horbuba votman."
+  },
+  "apiKey": "c9bd9b0a5b0ac0c1b6de42502013fce5662f3faf045d2bb3a611d1cffe0e9a0a",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
