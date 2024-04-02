@@ -1,0 +1,26 @@
+{
+  "name": "Austin Harper",
+  "age": 29,
+  "address": {
+    "street": "Telhe Way",
+    "city": "Tanizapoc",
+    "state": "MN",
+    "zip": "88350"
+  },
+  "contact": {
+    "phone": "(351) 410-1307",
+    "servicePhone": "800179836"
+  },
+  "birthday": "1969-11-02T10:02:55.463Z",
+  "ip": "107.67.177.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Dibrojile di apezawe su vulo ofmidi jusu wuorij ji nav pape navohzis ita. Dewic lin pu kal indapez ifuza joluz epo sofonhiz satad obojcam wiz terva cafikoz uvles. Izu ci dojje mukve jozapip jalinza hisewit ko jaec avi huzora ehezum jahu jeksah vilsap luvzo. Guguslem valafo hisdi goucewe zuemji sufudruw koho nulmat usoja kiphaw muc humibuf cosog cekeman nagon vufioc.",
+    "bio": "Pejwos latum degticid api oluocze neso bakjumgum oha azenivi aje mikhiw ziv vub eraroc webat po irmafvu fasihab. Firovuwa pi rindatzu muhufiru wa nej supsi ewuco nel fi macewbum vudej makno. Padok onja senop situg ugaducti tijah zugsoplu kiashoh mobmur hiunifa co etalco pac ze vevufaf."
+  },
+  "apiKey": "5c7c97d908b8e6fae083ef9f4570621988755ebdb6d04e44d8015ae321056084",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
