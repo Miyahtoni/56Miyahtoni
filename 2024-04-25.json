@@ -1,0 +1,26 @@
+{
+  "name": "Emily Obrien",
+  "age": 47,
+  "address": {
+    "street": "Sekzu Glen",
+    "city": "Vojmakmo",
+    "state": "CO",
+    "zip": "08434"
+  },
+  "contact": {
+    "phone": "(702) 522-6962",
+    "servicePhone": "800374988"
+  },
+  "birthday": "1960-02-20T16:25:36.459Z",
+  "ip": "96.21.26.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka zicotma hu duprosef vujbapap hunpen solbezafa maplaftaf poprimad cu uh ce cumke nilca haf oflon ve radaf. Hohas ove dimu olicucol wozrega sa hiveude kuwam zaji zomiskoj zus be gemupe decoze gano. Jac us pih cewigiso jarsi utoneg weg zefsusle apvogde tatbazon zumgi koegku rur borab nir teele.",
+    "bio": "Lumakpih hes onipe rejohat si duteb puf dapumzod nav keh lag fu ziwitoju tab didtavbub vici wewsu. Eznare agcap sovowofuf ja ugavamup olgejen amoemage fu gal wi foz wofja lev lozwa sios futvo. Bad reb hudgefgi gab nuwabuw la ehsed komodwa kij moulse zuco mutunje pi mees pededehid to ado. Cove di ragwetvoc an bickoc ifhano soina rishu seteblo gew toc id nelfem ki. Wise mug vopaf asomurub virelco evo wetu muk ene voja weh nelul muhun oju. Telitvip ipekadar dauruwa ca togur deloddo ce cir deibkis pizfub sadku rouda iv pej tawoadi vor za zav."
+  },
+  "apiKey": "493edf9cfcd15f0122ef106063a8284c67a6f6c4e18b2870959b1c16b0dcddb9",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
